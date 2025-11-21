@@ -120,11 +120,11 @@ Edit `.env` with your configuration:
 # OneChain Network Configuration
 VITE_ONECHAIN_RPC_URL=https://rpc-testnet.onelabs.cc:443
 
-# Smart Contract Addresses (update after deployment)
-VITE_PACKAGE_ID=your_package_id_here
-VITE_SPEEDY_TREASURY=your_game_treasury_address_here
-VITE_MINTING_CONFIG=your_minting_config_address_here
-VITE_STAKING_POOL=your_staking_pool_address_here
+# Speed Rush Smart Contract Addresses (OneChain Testnet)
+VITE_PACKAGE_ID=0xd57b1600b098ebc1f96b73a1cca8c00e0d658e405c0499ab72f19969c039a65b
+VITE_SPEEDY_TREASURY=0x9ca6e1115eac74ffeace894cd8c195952e91267dbbacf6847aeebd3d3c15ee31
+VITE_MINTING_CONFIG=0x77287dcad7a8fe15be7021a665c89482132c4edf564a1c6049ef2bdff5e609e7
+VITE_STAKING_POOL=0x968d65b0c738a7f8644d567656ff561e3f083b44500c4f3686f4fb43066d4228
 VITE_CLOCK_OBJECT=0x6
 
 # Game Configuration
